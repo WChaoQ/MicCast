@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MicCast</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开连接</string>
+    <string name="mute">静音</string>
+    <string name="unmute">取消静音</string>
+    <string name="connection_method">连接方式</string>
+    <string name="target_device">目标设备</string>
+    <string name="ip_address">IP地址</string>
+    <string name="port">端口</string>
+    <string name="wifi_hint">手机和电脑需在同一WIFI，在电脑端查看IP地址</string>
+    <string name="port_hint">默认 5513（可修改）</string>
+    <string name="notification_channel_name">MicCast 音频流</string>
+    <string name="notification_streaming">麦克风正在流式传输到电脑</string>
+</resources>
